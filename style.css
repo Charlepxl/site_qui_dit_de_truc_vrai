@@ -1,0 +1,53 @@
+body{
+  height: 100vh;
+  background-color: black;
+
+}
+.div1{
+
+  color:red;
+  font-size: 3px;
+}
+.div2{
+  margin-top: 33px;
+  font-size: 46px;
+  color: blue;
+}
+.div3{
+  text-align: center;
+color :pink;
+font-size: 45px;
+}
+.div4{
+color :green;
+font-size:40px;
+
+}
+.img1{
+  border-radius: 999px;
+border: 5px #060252 solid;
+width: 550px;
+
+}
+.bouton1{
+border:4px red solid;
+background-color: white;
+color:red;
+padding: 10px;
+border-radius: 77px;
+
+
+
+}
+.div5{
+color:green;
+margin-top: 65px;
+width: 400px;
+text-align: center;
+
+}
+.pour_didv5{
+  text-align: center;
+display: flex;
+justify-content: center;
+}
